@@ -1,3 +1,5 @@
+console.log("---------------Assignment 3----------------------");
+
 function gradeCalculation(mark) {
     var num = +mark;
     if (mark <= 0 || mark >= 100 || isNaN(mark)) {
